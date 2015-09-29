@@ -6,13 +6,8 @@
  * version : 1.0
  * September 24th, 2015
  *
- * LCENSE
- * XXX
  */
 
-
- // TO DO
- // a href nouvelle page si domain !=
 
 'use strict';
 
