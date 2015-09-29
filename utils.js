@@ -1,5 +1,5 @@
 /*!
- * utils.js - class helper functions
+ * utils.js - helper methods
  * by Sébastien Robillard
  *
  *
